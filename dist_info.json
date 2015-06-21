@@ -1,0 +1,1 @@
+{"recipes": ["hostpython2", "sdl2_image", "sdl2_mixer", "sdl2_ttf", "python2", "sdl2", "pyjniussdl2", "kivysdl2"], "dist_name": "testsdl2", "bootstrap": "sdl2"}
